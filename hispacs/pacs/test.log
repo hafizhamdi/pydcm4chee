@@ -1,0 +1,54 @@
+2018-05-12 21:18:22,389 - postdcm - INFO - postdcm is started
+2018-05-12 21:18:22,392 - postdcm - INFO - Opening DICOM file
+2018-05-12 21:18:22,407 - postdcm - INFO - attachment_url is generating
+2018-05-12 21:18:22,408 - postdcm - INFO - http://172.19.64.51:8080/wado?requestType=WADO&studyUID=1.2.410.200001.1.21701.1048965471.1.20171209.1185713828.794.1&seriesUID=1.2.410.200001.1.21701.1048965471.2.20171209.1185713871.655.1&objectUID=1.2.410.200001.1.21701.1048965471.3.20171209.1190741142.286.14
+2018-05-12 21:18:22,408 - postdcm - INFO - JSON data is generating
+2018-05-12 21:18:22,408 - postdcm - INFO - Ready to POST
+2018-05-12 21:18:22,422 - postdcm - INFO - http://172.19.64.7:8082/integration/orders/completeorder
+2018-05-12 21:18:22,423 - postdcm - WARNING - POST return status :404 [error]
+2018-05-12 21:25:11,239 - postdcm - INFO - postdcm is started
+2018-05-12 21:25:11,241 - postdcm - INFO - Opening DICOM file
+2018-05-12 21:25:11,253 - postdcm - INFO - Attachment url is generated
+2018-05-12 21:25:11,253 - postdcm - INFO - JSON data is generating
+2018-05-12 21:25:11,253 - postdcm - INFO - Ready to POST
+2018-05-12 21:25:11,264 - postdcm - INFO - POST http://172.19.64.7:8082/integration/orders/completeorder
+2018-05-12 21:25:11,264 - postdcm - WARNING - POST return : 404 [error]
+2018-05-12 21:28:20,964 - postdcm - INFO - postdcm is started
+2018-05-12 21:28:20,966 - postdcm - INFO - Opening DICOM file
+2018-05-12 21:28:20,979 - postdcm - INFO - Attachment url is generated
+2018-05-12 21:28:20,979 - postdcm - INFO - JSON data is generating
+2018-05-12 21:28:20,979 - postdcm - INFO - Ready to POST
+2018-05-12 21:28:20,991 - postdcm - INFO - POST http://172.19.64.7:8082/integration/orders/completeorder
+2018-05-12 21:28:20,992 - postdcm - WARNING - Response : 404 [error]
+2018-05-12 21:28:56,080 - postdcm - INFO - postdcm is started
+2018-05-12 21:28:56,082 - postdcm - INFO - Opening DICOM file
+2018-05-12 21:28:56,095 - postdcm - INFO - Attachment url is generated
+2018-05-12 21:28:56,096 - postdcm - INFO - JSON data is generating
+2018-05-12 21:28:56,096 - postdcm - INFO - Ready to POST
+2018-05-12 21:28:56,108 - postdcm - INFO - POST http://172.19.64.7:8082/integration/orders/completeorder
+2018-05-12 21:28:56,108 - postdcm - WARNING - Response : 404 [error]
+2018-05-12 21:36:37,600 - postdcm - INFO - postdcm is started
+2018-05-12 21:36:37,601 - postdcm - INFO - Opening DICOM file
+2018-05-12 21:36:37,616 - postdcm - INFO - Attachment url is generated
+2018-05-12 21:36:37,617 - postdcm - INFO - JSON data is generating
+2018-05-12 21:36:37,617 - postdcm - INFO - Ready to POST
+2018-05-12 21:36:37,631 - postdcm - INFO - POST http://172.19.64.7:8082/integration/orders/completeorder
+2018-05-12 21:36:37,632 - postdcm - WARNING - HTTP Response : 404 [error]
+2018-05-12 21:37:13,576 - postdcm - INFO - postdcm is started
+2018-05-12 21:37:13,577 - postdcm - INFO - Opening DICOM file
+2018-05-12 21:37:13,589 - postdcm - INFO - Attachment url is generated
+2018-05-12 21:37:13,590 - postdcm - INFO - JSON data is generating
+2018-05-12 21:37:13,590 - postdcm - INFO - Ready to POST
+2018-05-12 21:37:13,735 - postdcm - INFO - POST http://172.19.64.7:8081/integration/orders/completeorder
+2018-05-12 21:37:13,735 - postdcm - INFO - HTTP Response : 200 [success]
+2018-05-12 21:39:44,187 - postdcm - INFO - postdcm is started
+2018-05-12 21:39:44,188 - postdcm - INFO - Read DICOM file
+2018-05-12 21:39:44,203 - postdcm - INFO - Attachment url is generated
+2018-05-12 21:39:44,204 - postdcm - INFO - JSON data is generating
+2018-05-12 21:39:44,204 - postdcm - INFO - Ready to POST
+2018-05-12 21:39:44,260 - postdcm - INFO - POST http://172.19.64.7:8081/integration/orders/completeorder
+2018-05-12 21:39:44,261 - postdcm - INFO - HTTP Response : 200 [success]
+2018-05-12 22:56:12,855 - postdcm - INFO - postdcm is started
+2018-05-12 22:56:12,856 - postdcm - INFO - Read DICOM file
+2018-05-12 22:56:12,953 - postdcm - INFO - POST http://172.19.64.7:8081/integration/orders/completeorder
+2018-05-12 22:56:12,953 - postdcm - INFO - HTTP Response : 200 [success]
